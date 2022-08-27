@@ -1,1 +1,2 @@
+pytest==7.1.2
 setuptools~=63.2.0
