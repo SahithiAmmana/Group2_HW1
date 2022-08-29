@@ -6,6 +6,8 @@ A simple general purpose calculator developed with Python.
 [![Collaborators](https://img.shields.io/badge/Collaborators-5-orange.svg?style=flat)](https://github.com/SahithiAmmana/Group2_HW1/settings/access?query=filter%3Acollaborators)
 [![Language](https://img.shields.io/badge/Language-Python-blue.svg?style=flat)](https://github.com/SahithiAmmana/Group2_HW1)
 [![License](https://img.shields.io/badge/License-MIT-purple.svg?style=flat)](https://github.com/SahithiAmmana/Group2_HW1)
+[![DOI](https://zenodo.org/badge/528500080.svg)](https://zenodo.org/badge/latestdoi/528500080)
+
 
 Features:
 - Addition
