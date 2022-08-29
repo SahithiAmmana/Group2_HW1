@@ -49,10 +49,9 @@ jobs:
         path: src/htmlcov
     - name: Run package creation
       run: |
-        cd src
         python -m pip install --user --upgrade build
     - name: Archive package
       uses: actions/upload-artifact@v2
       with:
         name: calculator-functions
-        path: src/dist
+        path: ./dist
