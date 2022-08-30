@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Sahithi"
-  given-names: "Ammana"
+- family-names: "Ammana"
+  given-names: "Sahithi"
   orcid: "https://orcid.org/0000-0001-9592-8204"
 title: "Group2_HW1"
 version: 1.0.0
